@@ -1,0 +1,31 @@
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input__value {
+  margin-right: 2rem;
+  height: 2.5rem;
+  width: 13rem;
+  border: none;
+  border-radius: 1.5rem;
+  padding-left: 1rem;
+  letter-spacing: 0.2rem;
+  outline: none;
+  font-size: larger;
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.button {
+  height: 2.8rem;
+  width: 3rem;
+  outline: none;
+  border: none;
+  border-radius: 2rem;
+  letter-spacing: 0.2rem;
+  @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+  font-family: 'Shadows Into Light', cursive;
+  cursor: pointer;
+  background-color: white;
+}
